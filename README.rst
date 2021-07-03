@@ -27,7 +27,7 @@ Docs are updated rigorously. If you find any problems in the docs, or think
 they should be clarified in any way, please take 30 seconds to fill out a
 ticket here: https://code.djangoproject.com/newticket
 
-To get more help:
+To get more help from the official:
 
 * Join the ``#django`` channel on ``irc.libera.chat``. Lots of helpful people
   hang out there. See https://web.libera.chat if you're new to IRC.
